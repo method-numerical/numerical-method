@@ -14,4 +14,3 @@ def fibonacci(n):
         print('f(',k+1,')=',f[k])      #to print the numbers.
         k=k+1
     return
-
